@@ -1,4 +1,4 @@
-# K-Drama Dataset Analysis & Preprocessing
+# K-Drama Dataset Analysis
 
 A machine learning project for cleaning, preprocessing, and analyzing the Ultimate Korean Drama Dataset (1969–2025).
 
@@ -34,8 +34,7 @@ A machine learning project for cleaning, preprocessing, and analyzing the Ultima
 
 1. **Clone the repo:**
    ```bash
-   git clone <your-repo-url>
-   cd learn_ml_ai
+   git clone https://github.com/lilswapnil/kdrama-analytics.git
    ```
 
 2. **Create & activate virtual environment:**
