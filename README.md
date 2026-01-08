@@ -93,6 +93,24 @@ Or use the **Run All** button in the VS Code notebook editor.
 - **Top genres:** Action, Romance, Comedy, Drama
 - **Correlations:** Explored between rating, votes, runtime, and year
 
+## 🎬 Sample Results
+
+<p align="center">
+   <img src="assets/output1.png" alt="K-Drama Exploratory Data Analysis (EDA)" width="800">
+   <br/>
+   <em>Figure 1: Exploratory Data Analysis (EDA)</em>
+</p>
+<p align="center">
+   <img src="assets/output2.png" alt="Cleaned & Pre-processed Data" width="800">
+   <br/>
+   <em>Figure 2: Missing Data Report</em>
+</p>
+<p align="center">
+   <img src="assets/output3.png" alt="Genre Trends" width="800">
+   <br/>
+   <em>Figure 2: Top 5 Genre Trends Over Time</em>
+</p>
+
 
 ## 🔧 Dependencies
 
@@ -151,21 +169,3 @@ Developed as a professional data science and machine learning project for educat
 ---
 
 **Last Updated:** January 7, 2026
-
-## 🎬 Sample Results
-
-<p align="center">
-   <img src="assets/output1.png" alt="K-Drama Exploratory Data Analysis (EDA)" width="800">
-   <br/>
-   <em>Figure 1: Exploratory Data Analysis (EDA)</em>
-</p>
-<p align="center">
-   <img src="assets/output2.png" alt="Cleaned & Pre-processed Data" width="800">
-   <br/>
-   <em>Figure 2: Cleaned & Pre-processed Data</em>
-</p>
-<p align="center">
-   <img src="assets/output3.png" alt="Genre Trends" width="800">
-   <br/>
-   <em>Figure 2: Top 5 Genre Trends Over Time</em>
-</p>
