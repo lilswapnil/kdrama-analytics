@@ -1,4 +1,4 @@
-#!/Users/lilswapnil/Learn/learn_ml_ai/.venv/bin/python
+#!/Users/lilswapnil/Github/kdrama-analytics/.venv/bin/python
 import sys
 from IPython import start_ipython
 if __name__ == '__main__':

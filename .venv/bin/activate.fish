@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/lilswapnil/Learn/learn_ml_ai/.venv
+set -gx VIRTUAL_ENV /Users/lilswapnil/Github/kdrama-analytics/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

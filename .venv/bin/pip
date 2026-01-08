@@ -1,4 +1,4 @@
-#!/Users/lilswapnil/Learn/learn_ml_ai/.venv/bin/python3.13
+#!/Users/lilswapnil/Github/kdrama-analytics/.venv/bin/python3.14
 import sys
 from pip._internal.cli.main import main
 if __name__ == '__main__':
