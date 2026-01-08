@@ -1,15 +1,3 @@
-
-<p align="center">
-   <img src="assets/kdrama.png" alt="" width="800">
-   <br/>
-   <em>.</em>
-</p>
-<p align="center">
-   <img src="assets/kdrama01.png" alt="" width="800">
-   <br/>
-   <em>.</em>
-</p>
-
 # K-Drama Analytics: Data Science & Machine Learning Project
 
 This repository presents a comprehensive, end-to-end data science workflow for the analysis of the Ultimate Korean Drama Dataset (1969–2025). The project covers data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and lays the foundation for advanced machine learning applications.
@@ -163,3 +151,21 @@ Developed as a professional data science and machine learning project for educat
 ---
 
 **Last Updated:** January 7, 2026
+
+## 🎬 Sample Results
+
+<p align="center">
+   <img src="assets/output1.png" alt="K-Drama Exploratory Data Analysis (EDA)" width="800">
+   <br/>
+   <em>Figure 1: Exploratory Data Analysis (EDA)</em>
+</p>
+<p align="center">
+   <img src="assets/output2.png" alt="Cleaned & Pre-processed Data" width="800">
+   <br/>
+   <em>Figure 2: Cleaned & Pre-processed Data</em>
+</p>
+<p align="center">
+   <img src="assets/output3.png" alt="Genre Trends" width="800">
+   <br/>
+   <em>Figure 2: Top 5 Genre Trends Over Time</em>
+</p>
